@@ -1,0 +1,28 @@
+
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#number, #eroare {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#eroare {
+    color: red;
+    font-weight: bold;
+}
+
+#userinput{
+    margin-top: 30px;
+    display: block;
+} 
+
+#castig {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
