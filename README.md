@@ -1,4 +1,4 @@
-# 1000k-loto-generator
+# 1k-loto-generator
 LIVE DEMO HERE!
 1. insert the numbers you want
 2. Click Genereaza 
